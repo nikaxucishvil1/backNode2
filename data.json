@@ -1,0 +1,22 @@
+[
+  {
+    "name": "nika",
+    "age": 21,
+    "isSmoker": false
+  },
+  {
+    "name": "saba",
+    "age": 25,
+    "isSmoker": true
+  },
+  {
+    "name": "dato",
+    "age": 30,
+    "isSmoker": false
+  },
+  {
+    "name": "lika",
+    "age": 19,
+    "isSmoker": true
+  }
+]
